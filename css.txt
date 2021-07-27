@@ -1,0 +1,26 @@
+html{
+  background-color : red;
+}
+body {
+  background-color : #ffc;
+  width :50%;
+  border :1px solid blue;
+  margin :5pt;
+  padding :10pt;
+}
+h1{
+  font-variant: small-caps;
+  border-bottom: 3px double green 
+}
+ol {
+  border-left : 3px solid #aaa;
+}
+p{
+  border-bottom : 1px dotted red ;
+}
+li:hover{
+  background-color : white;
+}
+li.foo{
+  font-size: 20pt;
+}
